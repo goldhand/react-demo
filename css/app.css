@@ -1,0 +1,47 @@
+.nvd3-svg {
+  height: 500px;
+  width: 500px;
+}
+
+.page-title {
+  background-color: #575757;
+  color: #fafafa;
+  margin: 0;
+  padding: 30px 15px 10px;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+  background-color: #575757;
+}
+.nav-pills>li>a {
+  border-radius: 0;
+}
+
+a {
+  color: #575757;
+}
+
+.simple-stat {
+  text-align: center;
+}
+.stat-value {
+  clear: both;
+  font-size: 1.5em;
+  color: #575757;
+  display: block;
+}
+.stat-label {
+  color: #888;
+  font-style: oblique;
+  font-size: .6em;
+}
+
+.revenues svg {
+  width: 100%;
+}
+.product-table .loss {
+  color: red;
+}
+.product-table .profit {
+  color: green;
+}
